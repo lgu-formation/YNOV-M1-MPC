@@ -1,0 +1,26 @@
+# Compilation CubeIDE
+Debug/
+Release/
+build/
+
+# Sauvegarde
+tmp_save_ok/
+
+# Fichiers temporaires
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.cyclo
+
+# Fichiers système
+.DS_Store
+*~
+*.bak
+
+# Métadonnées temporaires Eclipse
+.metadata/
